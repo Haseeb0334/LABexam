@@ -1,0 +1,359 @@
+.mobile-view-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-black);
+    width: 402px;
+    height: 97px;
+  }
+  .image-2-icon {
+    position: absolute;
+    top: 19px;
+    left: 52px;
+    width: 78px;
+    height: 69px;
+    object-fit: cover;
+  }
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 20px;
+    background-color: var(--color-silver);
+    width: 112px;
+    height: 43px;
+  }
+  .ellines-icon {
+    position: absolute;
+    top: 11px;
+    left: 38.7px;
+    width: 35.1px;
+    height: 21.1px;
+    overflow: hidden;
+  }
+  .group-wrapper,
+  .mobile-view-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 112px;
+    height: 43px;
+  }
+  .mobile-view-inner {
+    top: 24px;
+    left: 268px;
+  }
+  .controlling-authority-of {
+    position: absolute;
+    top: 407px;
+    left: 26px;
+    font-size: var(--font-size-base);
+  }
+  .chief-minister-sindh {
+    position: absolute;
+    top: 456px;
+    left: 40px;
+    font-size: var(--font-size-smi);
+    display: inline-block;
+    width: 283px;
+    height: 94px;
+  }
+  .image-2-icon1 {
+    position: absolute;
+    top: 550px;
+    left: 26px;
+    width: 339px;
+    height: 335px;
+    object-fit: cover;
+  }
+  .group-item,
+  .mobile-view-item {
+    position: absolute;
+    top: 897px;
+    left: 0;
+    background-color: var(--color-silver);
+    width: 402px;
+    height: 1117px;
+  }
+  .group-item {
+    top: 275px;
+    left: 14px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-gainsboro);
+    width: 122px;
+    height: 25px;
+  }
+  .details,
+  .mr-rafique-ahmed {
+    position: absolute;
+    display: inline-block;
+  }
+  .details {
+    top: 279px;
+    left: 44px;
+    width: 71px;
+    height: 17px;
+  }
+  .mr-rafique-ahmed {
+    top: 209px;
+    left: 25px;
+    font-size: var(--font-size-base);
+    width: 117px;
+  }
+  .image-4-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 179px;
+    height: 200px;
+    object-fit: cover;
+  }
+  .group-inner,
+  .rectangle-group {
+    position: absolute;
+    top: 1684px;
+    left: 116px;
+    width: 179px;
+    height: 300px;
+  }
+  .group-inner {
+    top: 279px;
+    left: 19px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-gainsboro);
+    width: 122px;
+    height: 25px;
+  }
+  .details1,
+  .mr-rafique-ahmed1 {
+    position: absolute;
+    display: inline-block;
+  }
+  .details1 {
+    top: 283px;
+    left: 49px;
+    width: 71px;
+    height: 17px;
+  }
+  .mr-rafique-ahmed1 {
+    top: 213px;
+    left: 30px;
+    font-size: var(--font-size-base);
+    width: 117px;
+  }
+  .group-div,
+  .rectangle-container {
+    position: absolute;
+    top: 993px;
+    left: 116px;
+    width: 179px;
+    height: 304px;
+  }
+  .group-div {
+    top: 1348px;
+  }
+  .officers {
+    position: absolute;
+    top: 936px;
+    left: 37px;
+    font-size: var(--font-size-5xl);
+  }
+  .mobile-view-child1 {
+    position: absolute;
+    top: 2014px;
+    left: 1px;
+    background-color: var(--color-black);
+    width: 401px;
+    height: 277px;
+  }
+  .results-and-announcments {
+    position: absolute;
+    top: 2048px;
+    left: 86px;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+    display: inline-block;
+    width: 211px;
+  }
+  .higher-secoundry-school {
+    position: absolute;
+    top: 4px;
+    left: 45.3px;
+    display: inline-block;
+    width: 323px;
+  }
+  .mdiannouncement-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 22.7px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .higher-secoundry-school-part-i-parent {
+    position: absolute;
+    top: 2118px;
+    left: 30px;
+    width: 368.4px;
+    height: 38px;
+    color: var(--color-white);
+  }
+  .higher-secoundry-school-part-i-parent1 {
+    position: absolute;
+    top: 35px;
+    left: 1.9px;
+    width: 368.4px;
+    height: 38px;
+  }
+  .higher-secoundry-school-part-i-container {
+    position: absolute;
+    top: 36px;
+    left: 1.9px;
+    width: 370.3px;
+    height: 73px;
+  }
+  .higher-secoundry-school-part-i-group {
+    position: absolute;
+    top: 2154px;
+    left: 30px;
+    width: 372.1px;
+    height: 109px;
+    color: var(--color-white);
+  }
+  .contact-us {
+    position: absolute;
+    top: 0;
+    left: 8px;
+    font-size: 20px;
+    color: var(--color-black);
+  }
+  .group-child1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 311px;
+    height: 30px;
+  }
+  .full-name,
+  .full-name2 {
+    position: absolute;
+    top: 9px;
+    left: 42.9px;
+    display: inline-block;
+    width: 166.2px;
+    height: 11px;
+  }
+  .full-name2 {
+    top: 3px;
+    left: 41.9px;
+  }
+  .rectangle-parent3 {
+    position: absolute;
+    top: 61px;
+    left: 1px;
+    width: 311px;
+    height: 30px;
+  }
+  .rectangle-parent2 {
+    position: absolute;
+    top: 64px;
+    left: 0;
+    width: 312px;
+    height: 91px;
+  }
+  .rectangle-parent1,
+  .rectangle-parent4 {
+    position: absolute;
+    top: 56px;
+    left: 0;
+    width: 312px;
+    height: 155px;
+  }
+  .rectangle-parent4 {
+    top: 238px;
+    width: 311px;
+    height: 30px;
+  }
+  .contact-us-parent {
+    position: absolute;
+    top: 2303px;
+    left: 29px;
+    width: 312px;
+    height: 268px;
+    font-size: var(--font-size-xs);
+    color: var(--color-gray);
+  }
+  .mobile-view-child2 {
+    position: absolute;
+    top: 2598px;
+    left: 29px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-white);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 312px;
+    height: 126px;
+  }
+  .description {
+    position: absolute;
+    top: 2611px;
+    left: 56px;
+    font-size: var(--font-size-xs);
+    display: inline-block;
+    color: var(--color-gray);
+    width: 257px;
+  }
+  .mobile-view-child3 {
+    position: absolute;
+    top: 2764px;
+    left: 34px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-green);
+    width: 306px;
+    height: 44px;
+  }
+  .submit {
+    position: absolute;
+    top: 2771px;
+    left: 135px;
+    font-size: var(--font-size-5xl);
+    color: var(--color-white);
+  }
+  .mobile-view-child4 {
+    position: absolute;
+    top: 2838px;
+    left: 0;
+    background-color: var(--color-black);
+    width: 402px;
+    height: 55px;
+  }
+  .all-rights-reserverd {
+    position: absolute;
+    top: 2856px;
+    left: 59px;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+  }
+  .group-icon {
+    position: absolute;
+    top: 96px;
+    left: 0;
+    width: 402px;
+    height: 255px;
+  }
+  .mobile-view {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 2893px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
+  

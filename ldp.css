@@ -1,0 +1,470 @@
+.bise-sukkur-landing-page-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 587px;
+  height: 60px;
+}
+.contact,
+.officers1,
+.results {
+  position: absolute;
+  top: 29px;
+  left: 355px;
+}
+.officers1,
+.results {
+  left: 242px;
+  display: inline-block;
+  width: 51px;
+  height: 9px;
+}
+.results {
+  left: 302px;
+  width: 44px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 9px;
+  left: 44px;
+  width: 58px;
+  height: 43px;
+  object-fit: cover;
+}
+.home {
+  position: absolute;
+  top: 27px;
+  left: 189px;
+  display: inline-block;
+  width: 44px;
+  height: 9px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 587px;
+  height: 246px;
+}
+.chief-minister-sindh1,
+.controlling-authority-of1 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+}
+.chief-minister-sindh1 {
+  top: 57px;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+  width: 258px;
+  height: 130px;
+}
+.image-2-icon2 {
+  position: absolute;
+  top: 0;
+  left: 298px;
+  width: 207px;
+  height: 191px;
+  object-fit: cover;
+}
+.controlling-authority-of-bise-parent,
+.vector-parent {
+  position: absolute;
+  top: 22px;
+  left: 21px;
+  width: 505px;
+  height: 191px;
+}
+.vector-parent {
+  top: 337px;
+  left: 0;
+  width: 587px;
+  height: 246px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.bise-sukkur-landing-page-item {
+  position: absolute;
+  top: 22px;
+  left: 452px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-silver);
+  width: 111px;
+  height: 23px;
+}
+.login {
+  position: absolute;
+  top: 24px;
+  left: 488px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.oouinext-ltr {
+  position: absolute;
+  top: 469px;
+  left: 545px;
+  width: 25px;
+  height: 36px;
+  overflow: hidden;
+}
+.oouinext-rtl,
+.oouinext-rtl-wrapper {
+  position: absolute;
+  width: 20.1px;
+  height: 29.5px;
+}
+.oouinext-rtl {
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+.oouinext-rtl-wrapper {
+  top: 168px;
+  left: 12px;
+}
+.bise-sukkur-landing-page-inner {
+  position: absolute;
+  top: 572px;
+  left: 0;
+  background-color: var(--color-silver);
+  width: 587px;
+  height: 353px;
+}
+.officers2 {
+  position: absolute;
+  top: 601px;
+  left: 32px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.bise-sukkur-landing-page-child1 {
+  position: absolute;
+  top: 638px;
+  left: 32px;
+  width: 149px;
+  height: 111px;
+}
+.mr-rafique-ahmed3 {
+  position: absolute;
+  top: 127px;
+  left: 0;
+  display: inline-block;
+  width: 117px;
+}
+.image-4-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 114px;
+  height: 121px;
+  object-fit: cover;
+}
+.group-child5 {
+  position: absolute;
+  top: 198px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 122px;
+  height: 25px;
+}
+.mr-rafique-ahmed-palh-chairm-parent {
+  position: absolute;
+  top: 655px;
+  left: 42px;
+  width: 122px;
+  height: 223px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.mr-rafique-ahmed-palh-chairm-container {
+  position: absolute;
+  top: 0;
+  left: 186px;
+  width: 122px;
+  height: 223px;
+}
+.details3,
+.details4 {
+  position: absolute;
+  top: 201px;
+  left: 30px;
+}
+.details4 {
+  top: 200px;
+  left: 215px;
+}
+.details5,
+.mr-rafique-ahmed-palh-chairm-group {
+  position: absolute;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.mr-rafique-ahmed-palh-chairm-group {
+  top: 655px;
+  left: 218px;
+  width: 308px;
+  height: 223px;
+}
+.details5 {
+  top: 855px;
+  left: 70px;
+}
+.bise-sukkur-landing-page-child2 {
+  position: absolute;
+  top: 925px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 587px;
+  height: 277px;
+}
+.results-and-announcments1 {
+  position: absolute;
+  top: 950px;
+  left: 125px;
+  font-size: var(--font-size-5xl);
+}
+.higher-secoundry-school4 {
+  position: absolute;
+  top: 4px;
+  left: 48px;
+}
+.mdiannouncement-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.higher-secoundry-school-part-i-parent2 {
+  position: absolute;
+  top: 1005px;
+  left: 32px;
+  width: 390px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+}
+.higher-secoundry-school-part-i-parent5 {
+  position: absolute;
+  top: 35px;
+  left: 2px;
+  width: 390px;
+  height: 24px;
+}
+.higher-secoundry-school-part-i-parent4 {
+  position: absolute;
+  top: 36px;
+  left: 2px;
+  width: 392px;
+  height: 59px;
+}
+.higher-secoundry-school-part-i-parent3 {
+  position: absolute;
+  top: 1041px;
+  left: 32px;
+  width: 394px;
+  height: 95px;
+  font-size: var(--font-size-sm);
+}
+.contact-us1 {
+  position: absolute;
+  top: 1242px;
+  left: 48px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.group-child8,
+.rectangle-parent5 {
+  position: absolute;
+  width: 174px;
+  height: 30px;
+}
+.group-child8 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.rectangle-parent5 {
+  top: 1299px;
+  left: 46px;
+  color: var(--color-gray);
+}
+.email {
+  position: absolute;
+  top: 9px;
+  left: 24px;
+  display: inline-block;
+  width: 93px;
+  height: 11px;
+}
+.group-child10,
+.rectangle-parent6 {
+  position: absolute;
+  width: 174px;
+  height: 30px;
+}
+.rectangle-parent6 {
+  top: 1387px;
+  left: 286px;
+  color: var(--color-gray);
+}
+.group-child10 {
+  top: 0;
+  left: 240px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.phone {
+  position: absolute;
+  top: 9px;
+  left: 264px;
+  display: inline-block;
+  width: 93px;
+  height: 11px;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 83px;
+  left: 0;
+  width: 174px;
+  height: 30px;
+}
+.rectangle-parent7 {
+  position: absolute;
+  top: 1299px;
+  left: 46px;
+  width: 414px;
+  height: 113px;
+  color: var(--color-gray);
+}
+.bise-sukkur-landing-page-child3 {
+  position: absolute;
+  top: 1638px;
+  left: 333px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-green);
+  width: 127px;
+  height: 37px;
+}
+.submit1 {
+  position: absolute;
+  top: 1647px;
+  left: 366px;
+  font-size: var(--font-size-base);
+}
+.bise-sukkur-landing-page-child4 {
+  position: absolute;
+  top: 1715px;
+  left: -7px;
+  background-color: var(--color-black);
+  width: 594px;
+  height: 64px;
+}
+.all-rights-reserverd1 {
+  position: absolute;
+  top: 1737px;
+  left: 151px;
+  font-size: var(--font-size-base);
+}
+.image-3-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 587px;
+  height: 277px;
+  object-fit: cover;
+}
+.vector-icon {
+  position: absolute;
+  height: 13.07%;
+  width: 3.41%;
+  top: 46.82%;
+  right: 92.84%;
+  bottom: 40.11%;
+  left: 3.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child12,
+.group-child13,
+.group-child14 {
+  position: absolute;
+  top: 0;
+  left: 56.4px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 49.3px;
+  height: 6.1px;
+}
+.group-child13,
+.group-child14 {
+  left: 112.8px;
+}
+.group-child14 {
+  left: 0;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: 238px;
+  left: 212px;
+  width: 162.1px;
+  height: 6.1px;
+}
+.image-3-parent,
+.vector-icon1 {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 587px;
+  height: 277px;
+}
+.vector-icon1 {
+  height: 2.03%;
+  width: 3.41%;
+  top: 10.7%;
+  right: 3.92%;
+  bottom: 87.27%;
+  left: 92.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bise-sukkur-landing-page-child5 {
+  position: absolute;
+  top: 1452px;
+  left: 43px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 419px;
+  height: 155px;
+}
+.description1 {
+  position: absolute;
+  top: 1472px;
+  left: 64px;
+  display: inline-block;
+  color: var(--color-gray);
+  width: 128px;
+  height: 22px;
+}
+.bise-sukkur-landing-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1779px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
